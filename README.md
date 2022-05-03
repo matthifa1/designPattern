@@ -1,5 +1,5 @@
 # Design Pattern without OOP: 
-# Abstract Data Type & State machine
+## Abstract Data Type & State machine
 Implementation of a state machine that uses abstract Data type in C/C++
 
 # main.cpp
