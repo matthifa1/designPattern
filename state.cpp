@@ -1,3 +1,27 @@
+/**
+ * @file state.cpp
+ * @author Matthias Falger (none@domain.com)
+ * @brief 
+ * @version 0.1
+ * @date 2022-05-06
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ * @note
+ *
+ * None.
+ *
+ * <pre>
+ * MODIFICATION HISTORY:
+ *
+ * Ver   Who  Date	 Changes
+ * ----- ---- -------- ---------------------------------------------------------
+ * 1.00a mf  02/24/19 Created.
+ *
+ * </pre>
+ *
+ */
+
 #include "state.h"
 
 static void defaultState1 (StatePtr state)

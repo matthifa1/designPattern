@@ -1,3 +1,14 @@
+/**
+ * @file main.cpp
+ * @author your name (you@domain.com)
+ * @brief 
+ * @version 0.1
+ * @date 2022-05-06
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
+
 #include "abstractDataType.h"
 #include "state.h"
 #include "state1.h"
@@ -5,6 +16,10 @@
 #include "state3.h"
 #include "stdlib.h"
 
+/********************************************//**
+ *  Main Loop
+ *  @param arc the typical arguments
+ ***********************************************/
 int main(int arc, char* argv[]){
     /*Abstract Data Type; Creational Pattern*/
     /*The Implementation is hidden in abstractDataType.cpp*/
