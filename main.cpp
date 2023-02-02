@@ -43,5 +43,6 @@ int main(int arc, char* argv[]){
     myStateMachine.state1(&myStateMachine);
     myStateMachine.state2(&myStateMachine);
     myStateMachine.state1(&myStateMachine);
+	myStateMachine.state1(&myStateMachine);
 }
 
